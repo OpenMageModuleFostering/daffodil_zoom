@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Daffodil_Zoom",
+    "type": "magento-module",
+    "license": "GPL",
+    "homepage": "",
+    "description": "Zoom product image",
+    "authors": [
+    {
+        "name": "Daffodil Software",
+        "email": "ashish.mittal@daffodilsw.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
